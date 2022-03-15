@@ -1,12 +1,11 @@
-streamlit
-pandas_datareader
-matplotlib
-pandas
-numpy
-seaborn as sns
-tensorflow
-keras
-datetime
-plotly
-requests
-bs4
+beautifulsoup4==4.10.0
+keras==2.6.0
+matplotlib==3.5.0
+numpy==1.19.5
+pandas==1.2.4
+pandas_datareader==0.10.0
+plotly==5.6.0
+requests==2.25.1
+seaborn==0.11.2
+streamlit==1.2.0
+tensorflow==2.6.0
