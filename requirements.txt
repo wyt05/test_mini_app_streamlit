@@ -1,0 +1,12 @@
+streamlit
+pandas_datareader
+matplotlib
+pandas
+numpy
+seaborn as sns
+tensorflow
+keras
+datetime
+plotly
+requests
+bs4
